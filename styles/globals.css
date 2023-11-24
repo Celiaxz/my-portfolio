@@ -59,7 +59,7 @@ html {
   /* global 92%+ browsers support */
   background: radial-gradient(
     circle at 50% 50%,
-    rgba(20, 55, 133, 1) 0%,
+    rgb(20, 133, 84) 0%,
     rgba(13, 0, 13, 1) 100%
   );
 }

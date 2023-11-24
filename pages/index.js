@@ -3,7 +3,7 @@ import NavBar from "./widget/navBar";
 import Project from "./components/project/project";
 
 import Image from "next/image";
-import hero from "../public/1.jpg";
+import hero from "../public/Cynthia4.jpg";
 
 import Contact from "./widget/contact";
 import {
@@ -22,10 +22,10 @@ import Achievement from "./components/achivement/achievement";
 
 export default function Home() {
   const handleDownload = () => {
-    const filename = "Fabien_Kavuganyi_cv.pdf";
+    const filename = "CV_Cynthia_Eze.pdf";
     const a = document.createElement("a");
     a.href =
-      "https://drive.google.com/file/d/1lTguyb2nFA7sTgpjvLKg7hwTXx7g4m7I/view?usp=share_link";
+      "https://drive.google.com/file/d/1SBOnxljIoK5uSDfKhFgejxTMihVxE2PP/view?usp=drive_link";
     a.setAttribute("download", filename);
     document.body.appendChild(a);
     a.click();
@@ -55,7 +55,7 @@ export default function Home() {
           </div>
           <div className=" p-8 md:w-1/2 ">
             <h1 className="text-4xl md:text-6xl text-white font-bold">
-              Cynthia <span className="text-blue-600">Eze</span>
+              Cynthia <span className="text-green-600">Eze</span>
             </h1>
             <div className="my-4 under__title text-gray-200 text-2xl text-italic">
               Frontend developer
@@ -80,7 +80,7 @@ export default function Home() {
               onClick={handleDownload}
               className="border-2 border-orange-800 px-10 py-5 rounded-full text-orange-800 hover:text-white hover:bg-orange-800 mt-4 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300"
             >
-              Get My CV here
+              See CV/Resume here
             </button>
           </div>
         </div>
