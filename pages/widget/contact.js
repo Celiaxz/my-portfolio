@@ -10,7 +10,7 @@ import {
 
 const Contact = () => {
   return (
-    <div className="bg-slate-800  md:p-20 p-5" id="contact">
+    <div className="bg-green-950  md:p-20 p-5" id="contact">
       <div className="h-[5px] w-[60px] bg-orange-600  rounded-r-3xl" />
       <h1 className="headtext__base text-orange-600   my-3 text-semibold  text-[48px]">
         Contact
@@ -27,7 +27,7 @@ const Contact = () => {
                 <div className="bg-gray-900  flex items-center  justify-center rounded-full h-[50px] w-[50px]">
                   <RiPhoneFill className="text-[25px]" />
                 </div>
-                (+49) 015 7815 02431
+                (+49) 015 773670760
               </span>
             </div>
             <div className=" flex-1 text-white text-[25px] flex flex-col items-start">
@@ -38,7 +38,7 @@ const Contact = () => {
                 <div className="bg-gray-900  flex items-center justify-center rounded-full h-[50px] w-[50px]">
                   <RiMailFill className="text-[25px]" />
                 </div>
-                fabiusyy@gmail.com
+                eze.cynthiaonyejere@gmail.com
               </span>
             </div>
           </div>

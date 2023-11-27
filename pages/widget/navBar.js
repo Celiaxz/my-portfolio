@@ -15,7 +15,7 @@ const NavBar = () => {
   return (
     <div className="bg-black w-full z-10 fixed">
       <div className="flex justify-between items-center md:px-20 mx-auto">
-        <div className="bg-gray-700 text-gray-100 text-4xl p-2">FK</div>
+        <div className="bg-gray-700 text-gray-100 text-4xl p-2">CE</div>
         <div className=" hidden  md:block text-gray-100">
           <a className="p-2" href="#home">
             Home
@@ -31,23 +31,17 @@ const NavBar = () => {
             About Me
           </a>
           <a className="p-2" href="#achievement">
-            Achievement
+            Education
           </a>
           <a className="p-2" href="#contact">
             Contact
           </a>
         </div>
         <div className="text-gray-600 text-4xl flex gap-3">
-          <a href="https://www.instagram.com/fabu1da/">
-            <RiInstagramFill />
-          </a>
-          <a href="https://www.facebook.com/kavuganyi.fabius/">
-            <RiFacebookFill />
-          </a>
-          <a href="https://www.linkedin.com/in/kavuganyi-fabien-717a46202/">
+          <a href="https://www.linkedin.com/in/cynthia-eze/">
             <RiLinkedinFill />
           </a>
-          <a href="https://github.com/Fabu1da">
+          <a href="https://github.com/Celiaxz">
             <RiGithubFill />
           </a>
         </div>
