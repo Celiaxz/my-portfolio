@@ -3,7 +3,7 @@ import NavBar from "./widget/navBar";
 import Project from "./components/project/project";
 
 import Image from "next/image";
-import hero from "../public/Cynthia4.jpg";
+import hero from "../public/cynthia4.jpg";
 
 import Contact from "./widget/contact";
 import {
