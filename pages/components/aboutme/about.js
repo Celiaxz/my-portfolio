@@ -26,9 +26,7 @@ const About = () => {
               </span>{" "}
               <div className="w-full flex-1 h-[2px]  bg-orange-600  rounded-l-full" />
             </div>
-            <p className="text-gray-400">
-              Frontend developer | Web Specialist{" "}
-            </p>
+            <p className="text-gray-400">Web Specialist </p>
             <p className=" text-green-600">Tots Integrated Services </p>
             <div className="md:hidden block mt-3">
               <div className="w-[2px] flex-1 h-[50px] bg-blue-600 " />
