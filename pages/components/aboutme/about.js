@@ -9,11 +9,11 @@ const About = () => {
           About Me
         </h1>
         <p className="text-gray-400 text-[20px]">
-          Have more than 2 years of experience in creating and maintaining
-          functional, attractive and responsive web applications. Clear
-          understanding for new technologies and best design practices. I have
-          knowledge of popular frameworks such as React , and experience with
-          REST API.
+          Have over two years of hands-on experience, I specialize in crafting
+          and maintaining dynamic, visually appealing, and responsive eb
+          applications.. Proficient in frameworks like React, I bring a wealth
+          of experience in developing seamless interfaces coupled with a deep
+          understanding of REST API integration
         </p>
         <h4 className="text-white font-[600] text-[20px] text-center md:text-left my-5">
           Work timeline
