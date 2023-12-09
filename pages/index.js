@@ -61,9 +61,9 @@ export default function Home() {
               Frontend developer
             </div>
             <div className="transition ease-in-out duration-500 delay-150 text-white font-light border-l-8  border-gray-400 hover:border-l-8 pl-3 hover:border-blue-500 whitespace-normal">
-              Front end developer focused on implementing clean, elegant code
-              for front-end systems, with expertise in HTML, CSS, JavaScripts
-              and ReactJs
+              Frontend developer focused on implementing clean, elegant code for
+              front-end systems, with expertise in HTML, CSS, JavaScripts and
+              ReactJs
             </div>
 
             <p className="my-5 text-gray-200 under__title">Main Technology </p>

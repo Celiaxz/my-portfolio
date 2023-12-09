@@ -33,13 +33,13 @@ const Feature = ({ handleDownload }) => {
       </div>
       <div className=" p-8 md:w-1/2 ">
         <h1 className="text-4xl md:text-6xl text-white font-bold">
-          Fabien <span className="text-blue-600">Kavuganyi</span>
+          Cynthia <span className="text-blue-600">Eze</span>
         </h1>
         <div className="my-4 under__title text-gray-200 text-2xl text-italic">
           Frontend developer
         </div>
         <div className="transition ease-in-out duration-500 delay-150 text-white font-light border-l-8  border-gray-400 hover:border-l-8 pl-3 hover:border-blue-500 whitespace-normal">
-          Front end developer focuses on writing clean, elegant and effective
+          Frontend developer focuses on writing clean, elegant and effective
           code. Love HTML, CSS, NextJs, ReactJs and JavaScripts
         </div>
 

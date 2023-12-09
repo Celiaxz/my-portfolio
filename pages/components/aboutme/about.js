@@ -10,7 +10,7 @@ const About = () => {
         </h1>
         <p className="text-gray-400 text-[20px]">
           Have over two years of hands-on experience, I specialize in crafting
-          and maintaining dynamic, visually appealing, and responsive eb
+          and maintaining dynamic, visually appealing, and responsive web
           applications.. Proficient in frameworks like React, I bring a wealth
           of experience in developing seamless interfaces coupled with a deep
           understanding of REST API integration
@@ -66,7 +66,7 @@ const About = () => {
               </span>{" "}
               <div className="w-full flex-1 h-[2px] bg-orange-600 rounded-l-full" />
             </div>
-            <p className="text-gray-400">Fullstack developer</p>
+            <p className="text-gray-400">Fullstack web developer</p>
             <p className=" text-green-600">MFOH</p>
             <div className="md:hidden block mt-3">
               <div className="w-[2px] flex-1 h-[50px] bg-blue-600 " />

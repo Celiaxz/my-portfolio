@@ -57,33 +57,6 @@ const listProject = [
     url: "https://portfolio-connect.netlify.app/",
     codeurl: "https://github.com/Celiaxz/Portfolio_Connect_Front",
   },
-
-  // {
-  //   title: "Django Rest API",
-  //   body: "complete REST API using Django. this is an ecommerce backend with full functionality, like product categories, login endpoint, product view endpoint, product create endpoint. it free anyone can use it for any purpose or upgrade it as he/she needs",
-  //   tags: "Python Django",
-  //   img: fig7,
-  //   url: "",
-  //   codeurl: "https://github.com/Fabu1da/backend.git",
-  // },
-
-  // {
-  //   title: "E-commerce web app",
-  //   body: "Ecommerce is a method of buying and selling goods and services online. in this era everything has to be modernize. in that case businesses need a platform which can be accessible by everyone at any time. this simple e-commerce web app has basic functionality of an e-commerce system such as categories, cart and checkout",
-  //   tags: "ReactJs | TailwindCss",
-  //   img: fig4,
-  //   url: "https://monumental-bubblegum-94aff5.netlify.app/",
-  //   codeurl: "https://github.com/Fabu1da/shopping-web.git",
-  // },
-
-  // {
-  //   title: "Money Exchange web app",
-  //   body: "Exchange currency app help user to exchange money from any currency to preferable currency, this is a simple app i made using reactjs and  vanilla css, i fetched data from exchangerate restapi. the app has chart to help with in tracking how the currency value compares to Euro",
-  //   tags: "ReactJs | Vanilla Css",
-  //   img: fig6,
-  //   url: "https://remarkable-buttercream-31f941.netlify.app/",
-  //   codeurl: "https://github.com/Fabu1da/exchange_app.git",
-  // },
 ];
 
 const Project = () => {
