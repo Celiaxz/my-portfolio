@@ -36,7 +36,7 @@ const Technology = () => {
           <RiCompasses2Fill className="text-orange-600 text-[50px]" />
           <h1 className="font-[600] text-white text-[30px]">UI/UX</h1>
           <p className="text-gray-200 mt-5 text-[20px]">
-            Experience with tools like Figma, Photoshop and Illustrator
+            Experience with tools like Figma,
           </p>
         </div>
       </div>

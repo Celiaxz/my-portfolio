@@ -39,8 +39,12 @@ const Feature = ({ handleDownload }) => {
           Frontend developer
         </div>
         <div className="transition ease-in-out duration-500 delay-150 text-white font-light border-l-8  border-gray-400 hover:border-l-8 pl-3 hover:border-blue-500 whitespace-normal">
-          Frontend developer focuses on writing clean, elegant and effective
-          code. Love HTML, CSS, NextJs, ReactJs and JavaScripts
+          {/* Frontend developer focuses on writing clean, elegant and effective
+          code. Love HTML, CSS, NextJs, ReactJs and JavaScripts */}
+          Frontend Developer specializing in clean and elegant code for web
+          systems. Proficient in HTML, CSS, JavaScript, and ReactJS. Passionate
+          about creating responsive, user-friendly interfaces. Collaborative
+          team player with a commitment to continuous learning and innovation.
         </div>
 
         <p className="my-5 text-gray-200 under__title">Main Technology </p>

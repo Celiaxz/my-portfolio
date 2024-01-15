@@ -9,10 +9,10 @@ const About = () => {
           About Me
         </h1>
         <p className="text-gray-400 text-[20px]">
-          Have over two years of hands-on experience, I specialize in crafting
+          With over two years of hands-on experience, I specialize in crafting
           and maintaining dynamic, visually appealing, and responsive web
-          applications.. Proficient in frameworks like React, I bring a wealth
-          of experience in developing seamless interfaces coupled with a deep
+          applications. Proficient in frameworks like React, I bring extensive
+          experience in developing seamless interfaces coupled with a deep
           understanding of REST API integration
         </p>
         <h4 className="text-white font-[600] text-[20px] text-center md:text-left my-5">
@@ -26,7 +26,7 @@ const About = () => {
               </span>{" "}
               <div className="w-full flex-1 h-[2px]  bg-orange-600  rounded-l-full" />
             </div>
-            <p className="text-gray-400">Web Specialist </p>
+            <p className="text-gray-400"> Web Administrator </p>
             <p className=" text-green-600">Tots Integrated Services </p>
             <div className="md:hidden block mt-3">
               <div className="w-[2px] flex-1 h-[50px] bg-blue-600 " />
@@ -53,7 +53,7 @@ const About = () => {
               <div className="w-full flex-1 h-[2px]  bg-orange-600  rounded-l-full" />
             </div>
             <p className="text-gray-400">Frontend web developer intern</p>
-            <p className=" text-green-600">AlLuvium HQ</p>
+            <p className=" text-green-600">Alluvium HQ</p>
             <div className="md:hidden block mt-3">
               <div className="w-[2px] flex-1 h-[50px] bg-blue-600 " />
             </div>
@@ -75,7 +75,7 @@ const About = () => {
 
           <div className=" md:text-left  text-center">
             <p className="text-gray-400">Current</p>
-            <p className=" text-yellow-600">Searching For fulltime job</p>
+            <p className=" text-yellow-600">job search</p>
           </div>
         </div>
       </div>
