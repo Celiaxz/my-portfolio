@@ -25,7 +25,7 @@ export default function Home() {
     const filename = "CV_Cynthia_Eze.pdf";
     const a = document.createElement("a");
     a.href =
-      "https://drive.google.com/file/d/1Um3Zj-EEaxZAwc7jv7WTcdsy6Bk3gwnz/view?usp=drive_link";
+      "https://drive.google.com/file/d/1r3XKBycOXjy8vIBpwb5FCmoZBVnpvbJc/view?usp=drive_link";
     a.setAttribute("download", filename);
     document.body.appendChild(a);
     a.click();
