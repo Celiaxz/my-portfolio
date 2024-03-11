@@ -22,11 +22,11 @@ const About = () => {
           <div className="md:flex-1 flex flex-col md:items-start items-center">
             <div className="flex md:flex-row items-center w-full flex-col">
               <span className="text-white flex-1 mr-4">
-                Feb, 2017 – July, 2019
+                Feb. 2016 – Sept. 2018
               </span>{" "}
               <div className="w-full flex-1 h-[2px]  bg-orange-600  rounded-l-full" />
             </div>
-            <p className="text-gray-400"> Web Administrator </p>
+            <p className="text-gray-400"> Junior Business Analyst </p>
             <p className=" text-green-600">Tots Integrated Services </p>
             <div className="md:hidden block mt-3">
               <div className="w-[2px] flex-1 h-[50px] bg-blue-600 " />
@@ -35,11 +35,13 @@ const About = () => {
           <div className="md:flex-1 flex flex-col md:items-start items-center">
             <div className="flex md:flex-row items-center w-full flex-col">
               <span className="text-white flex-1 mr-4">
-                Sep, 2019 – Sep, 2023
+                Sep. 2019 – Sep. 2023
               </span>{" "}
               <div className="w-full flex-1 h-[2px]  bg-orange-600  rounded-l-full" />
             </div>
-            <p className="text-gray-400">Career Break | Study </p>
+            <p className="text-gray-400">
+              Career Break | Study | Work Study | Self-development{" "}
+            </p>
             <p className=" text-green-600"> University of Passau </p>
             <div className="md:hidden block mt-3">
               <div className="w-[2px] flex-1 h-[50px] bg-blue-600 " />
@@ -48,7 +50,7 @@ const About = () => {
           <div className="md:flex-1 flex flex-col md:items-start items-center">
             <div className="flex md:flex-row items-center w-full flex-col">
               <span className="text-white flex-1 mr-4">
-                Jan, 2022 – July, 2022
+                Jan. 2022 – July. 2022
               </span>{" "}
               <div className="w-full flex-1 h-[2px]  bg-orange-600  rounded-l-full" />
             </div>
@@ -62,7 +64,7 @@ const About = () => {
           <div className="md:flex-1  flex flex-col md:items-start items-center">
             <div className=" flex md:flex-row w-full flex-col items-center">
               <span className="text-white flex-1 mr-4">
-                Aug, 2023 – present
+                Feb. 2023 – Feb. 2024
               </span>{" "}
               <div className="w-full flex-1 h-[2px] bg-orange-600 rounded-l-full" />
             </div>
