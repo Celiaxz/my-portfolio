@@ -18,14 +18,13 @@ import {
 import Technology from "./components/technology/technology";
 import About from "./components/aboutme/about";
 import Achievement from "./components/achivement/achievement";
-// const cv_url = "https://localhost:3000/pdf/Fabien_Kavuganyi_cv.pdf";
 
 export default function Home() {
   const handleDownload = () => {
     const filename = "CV_Cynthia_Eze.pdf";
     const a = document.createElement("a");
     a.href =
-      "https://drive.google.com/file/d/1r3XKBycOXjy8vIBpwb5FCmoZBVnpvbJc/view?usp=drive_link";
+      "https://drive.google.com/file/d/1RZ3DitlTycjgKJezQcISgSb-6DDzU8ZE/view?usp=drive_link";
     a.setAttribute("download", filename);
     document.body.appendChild(a);
     a.click();
